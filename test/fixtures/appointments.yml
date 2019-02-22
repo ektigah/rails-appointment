@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  appointment_time: 2019-02-22 14:57:26
+  duration: 1
+  price: 1.5
+  location_id: 1
+  user_id: 1
+  client_id: 1
+
+two:
+  appointment_time: 2019-02-22 14:57:26
+  duration: 1
+  price: 1.5
+  location_id: 1
+  user_id: 1
+  client_id: 1
