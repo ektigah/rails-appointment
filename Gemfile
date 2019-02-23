@@ -62,3 +62,15 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 gem 'omniauth-facebook'
+gem "simple_calendar"
+# Use jquery as the JavaScript library
+gem 'jquery-rails'
+gem 'devise_invitable'
+gem 'high_voltage'
+#gem 'bootstrap'
+
+# Use SCSS for stylesheets
+gem 'sass-rails', '~> 5.0'
+gem 'bootstrap-sass', '~> 3.2.0'
+gem 'autoprefixer-rails'
+gem 'bootstrap_form'
